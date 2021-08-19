@@ -736,7 +736,7 @@
     "prismjs" "^1.17.1"
     "strip-indent" "^3.0.0"
 
-"hexo@^5.0.0":
+"hexo@^5.4.0":
   "integrity" "sha1-d9V/ocKfOrBZZP5OvZxE4j31Gzc="
   "resolved" "https://registry.npm.taobao.org/hexo/download/hexo-5.4.0.tgz"
   "version" "5.4.0"
