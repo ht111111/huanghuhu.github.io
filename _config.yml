@@ -103,7 +103,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://gitee.com/h11080711h/huanghuhu.git
+  repo: https://huanghuhu.github.io/
   branch: master
 
 
